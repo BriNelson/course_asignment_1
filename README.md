@@ -1,4 +1,4 @@
-# Harry potter React App
+# Course1 React App
 
 <br>
 npm install for node modules
